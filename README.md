@@ -2,6 +2,7 @@
 This repository contains the list of manuscripts of Cyril Lexicon studied within the framework of the PRIN2022 project PatriarX, combining the results of the recensio carried out by the Messina and Basilicata Research Units with those of the recensio conducted by Mark Naoumides, brought to light by the Verona Research Unit.
 The list includes basic information for each manuscript (place of conservation, date, folia containing Cyril's Lexicon), specifying whether Naoumides was aware of the manuscript and, if so, to which family he assigned it.
 
+https://doi.org/10.5281/zenodo.19075993
 
 ## Header description
 | Column Name           | Description                                                                                                                                                                                                                                                   |
@@ -20,6 +21,6 @@ The list includes basic information for each manuscript (place of conservation, 
 
 ## Contributors
 Paola La Barbera
-
+Paolo Scattolin
 
 ## Aknowledgment
